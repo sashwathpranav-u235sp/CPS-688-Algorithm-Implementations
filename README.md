@@ -1,5 +1,5 @@
 # CPS-688-Algorithm-Implementations
-The following algorithms are implemented the given Intellij Java Projects:
+The following algorithms are implemented in the given Intellij Java Projects:
 
 1. Breadth First Search
 2. Depth First Search
